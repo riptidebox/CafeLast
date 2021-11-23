@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Кафе</string>
+    <string name="logo_cafe">Лого кафе</string>
+    <string name="invitation">Добро пожаловать!</string>
+    <string name="input_user"></string>
+    <string name="default_name">Клиент</string>
+    <string name="default_password">пароль</string>
+    <string name="input_password">Ввод пароля</string>
+    <string name="button_order">Cоздать заказ</string>
+    <string name="user_name">Ввод имени</string>
+    <string name="toast_messege_warning1">Введите пароль</string>
+    <string name="toast_messege_warning2">Введите имя</string>
+    <string name="toast_messege_warning3">Все поля должны быть заполнены</string>
+    <string name="what_add_to_your_drink">Выберете %s?</string>
+    <string name="hello_client_you_choose">Привет, %s. Что бы вы хотели добавить?</string>
+    <string name="tea">Чай</string>
+    <string name="coffee">Кофе</string>
+    <string name="milk">Молоко</string>
+    <string name="sugar">Сахар</string>
+    <string name="lemon">Лимон</string>
+    <string name="select_type_of_drink">Выберите тип напитка</string>
+    <string name="send_order_description">Послать заказ</string>
+    <string name="order">Имя: %s\nПароль: %s\nНапиток: %s\nТип напитка:%s</string>
+    <string name="necessary_adds">Необязательные добавки:</string>
+
+    <string-array name="option_of_coffee">
+        <item>Американо</item>
+        <item>Эспрессо</item>
+        <item>Латте</item>
+    </string-array>
+    <string-array name="option_of_tea">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Красный</item>
+    </string-array>
+</resources>
